@@ -92,7 +92,7 @@ neural network, This challenge will only use JavaScript to interact with the DOM
 </details>
 
 ### My social media
-<a href="https://twitter.com/Dev_Josemi"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/josemichaves/" > <img src="	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/Dev_Josemi"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/josemichaves/" > <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Want to talk with me?
 <a href="mailto:josemichaves@protonmail.com">Send me an email</a>
