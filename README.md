@@ -9,14 +9,6 @@ I love the new technologies, from development, both web (web apps) and software 
   
 In my spare time I spend my time playing and watching sports, my favourite sports are motor racing, and enjoying the natural life on the island where I live in beautiful Mallorca.
 
-#### More Info!
-
-- My favourite IDE is: <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-- My favourite browser is: <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" />
-- My dev OS is: <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-- My PC specs: <img src="https://img.shields.io/badge/AMD-Ryzen_5_1600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white" /> <img src="https://img.shields.io/badge/NVIDIA-GTX1060-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-
-
 ## What are my tech skills?
 
 #### Languages
