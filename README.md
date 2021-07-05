@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi! I'm Josemi Chaves!
 
-<!--
-**JosemiChaves9/JosemiChaves9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who am I? 🧑‍💻  
+I am a decisive person, committed and passionate about what I do, organisation and planning are vital to me. I like challenges and facing them, although I also like to work in a team to solve them and give the best of me.  
+  
+## What do I like?  
+I love the new technologies, from development, both web (web apps) and software and hardware (Arduino), and other technlogies such as 3D printing and CAD Design.  
+  
+In my spare time I spend my time playing and watching sports, my favourite sports are motor racing, and enjoying the natural life on the island where I live in beautiful Mallorca.
 
-Here are some ideas to get you started:
+## What are my tech skills?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="{https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white}" />
