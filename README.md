@@ -51,12 +51,12 @@ In my spare time I spend my time playing and watching sports, my favourite sport
 
 <details> 
 <summary>**Taskia** <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" /> <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" /> <img src="https://img.shields.io/badge/-materialize--css-ff69b4?style=for-the-badge&logo=materialize--css&logoColor=white" /></summary>
-- *What is Taskia?*
-	- A simple to-do progressive web app, that allow us to register with it, and be able to share our
+-*What is Taskia?*
+	-A simple to-do progressive web app, that allow us to register with it, and be able to share our
 	projects with others, and view the changes in this shared project in real time.
-- *Links*
-	- [Github Repo](https://github.com/JosemiChaves9/taskia)
-    - [Online Version](#)
+-*Links*
+	-[Github Repo](https://github.com/JosemiChaves9/taskia)
+    -[Online Version](#)
 
 </details>
 
