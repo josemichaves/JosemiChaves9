@@ -36,8 +36,10 @@ In my spare time I spend my time playing and watching sports, my favourite sport
 	this app works with a front-end, back-end and a database, also have integrated an
 		email micro service and a payment gateway.</p>
 <li>Links
+	<ul>
 		<li>[GitHub Repo](https://github.com/JosemiChaves9/Feel-Menorca)</li>
 		<li>[Online version](https://protected-peak-68735.herokuapp.com/) (still in testing)</li>
+	</ul>
 		</li>
 		
 </details>
