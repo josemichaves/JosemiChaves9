@@ -41,12 +41,12 @@ In my spare time I spend my time playing and watching sports, my favourite sport
 
 <details>
 <summary> **Drone Tracker** <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" /> </summary>
-- *What is Drone Tracker?*
-	- Drone tracker is an app to a business of delivery be able to control his drones, sen-
+* What is Drone Tracker?
+  * Drone tracker is an app to a business of delivery be able to control his drones, sen-
 	ding them to a new delivery, and watch his data in real time.
-- *Links*
-	- [Github Repo](https://github.com/JosemiChaves9/drone-tracker)
-	- [Online Version](#)
+  * Links
+    * [Github Repo](https://github.com/JosemiChaves9/drone-tracker)
+    * [Online Version](#)
 </details>
 
 <details> 
