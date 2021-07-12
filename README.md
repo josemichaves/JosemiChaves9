@@ -208,10 +208,10 @@
     />
     <img
       src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"
-    />
-    <img
-      src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"
-    />
+    />   <img
+    src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"
+  /> <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+    
   </summary>
   <ul>
     <li><b>What is Drone Tracker?</b></li>
@@ -262,6 +262,8 @@
     />
     <img
       src="https://img.shields.io/badge/-materialize--css-ff69b4?style=for-the-badge&logo=materialize--css&logoColor=white"
+    />  <img
+      src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"
     />
   </summary>
   <ul>
