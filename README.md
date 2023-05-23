@@ -2,7 +2,7 @@
 
 <h2>Who am I? 🧑‍💻</h2>
 <p>
-  I am a decisive person, committed and passionate about what I do, organisation
+  I'm a backend developer at Hotelinking, decisive person, committed and passionate about what I do, organisation
   and planning are vital to me. I like challenges and facing them, although I
   also like to work in a team to solve them and give the best of me.
 </p>
@@ -13,7 +13,8 @@
   software and hardware (Arduino), and other technlogies such as 3D printing and
   CAD Design. In my spare time I spend my time playing and watching sports, my
   favourite sports are motor racing, and enjoying the natural life on the island
-  where I live in beautiful Mallorca. ## What are my tech skills?
+  where I live in beautiful Mallorca. 
+  ## What are my tech skills?
 </p>
 
 <h3>Languages</h3>
@@ -30,11 +31,14 @@
   <img
     src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
   />
+  <img
+       src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"
+  />
 </p>
 <h3>Databases</h3>
 <p>
   <img
-    src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"
+    src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"
   />
   <img
     src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
